@@ -1,24 +1,48 @@
-````markdown
-# ⛽ FullTank — Egyptian Fuel Price Prediction
+<div align="center">
 
-> An End-to-End Machine Learning project for predicting fuel prices in Egypt 🇪🇬
+# ⛽ FullTank — Egyptian Fuel Price Prediction
+### An End-to-End Machine Learning Project 🇪🇬
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-0.9087_R²-orange?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F1-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+</div>
 
 ---
 
 ## 📌 Project Overview
 
-**FullTank** is a Machine Learning project designed to predict fuel prices in Egypt using historical fuel-price data combined with relevant economic and market-related factors.
+**FullTank** is a comprehensive Machine Learning project designed to predict fuel prices in Egypt using historical fuel-price data combined with key economic and market-related factors. 
 
-The goal of the project was not simply to train a Machine Learning model and get a high score.
+The goal was never just to train a model and grab a high score; our vision was to build a complete **End-to-End Machine Learning Pipeline** bridging raw data collection all the way to a user-friendly graphical interface.
 
-Instead, we aimed to build a complete **End-to-End Machine Learning Pipeline** that starts from data collection and analysis and ends with a simple interface that can be used by an end user.
-
-### Project Flow
-
-**Data → Analysis → Modeling → Evaluation → GUI → End User**
+> **Project Flow:**  
+> `Data` ➔ `Analysis` ➔ `Modeling` ➔ `Evaluation` ➔ `GUI` ➔ `End User`
 
 ---
 
+## 🎯 Project Objectives
+
+*   Analyze historical fuel price movements in Egypt.
+*   Uncover hidden patterns and economic relationships within the data.
+*   Clean, preprocess, and engineer robust features for machine learning.
+*   Train, evaluate, and compare multiple machine learning algorithms.
+*   Identify the top-performing model (**XGBoost** with $R^2 = 0.9087$).
+*   Develop an interactive, clean **GUI** for seamless end-user interactions.
+
+---
+
+## 🗂️ Project Structure
+
+```text
+FullTank/
+│
+├── 📁 GetData/                  # Data collection & preparation files
+├── 📄 final.ipynb               # Complete end-to-end ML workflow notebook
+├── 📊 final_training_dataset.csv  # Final preprocessed dataset (CSV)
+├── 📊 final_training_dataset.xlsx # Final preprocessed dataset (Excel)
+└── 📄 README.md                 # Project documentation
 ## 🎯 Project Objectives
 
 The project aims to:
