@@ -1,0 +1,89 @@
+Date,Year,Fuel_Type,Price,Target_Category,Vehicle_Examples
+2025-10-17,2025,Octane 80,17.75,Old & Private,Lada/Fiat 128
+2025-10-17,2025,Octane 92,19.25,Modern Economy,Nissan/Toyota/Hyundai
+2025-10-17,2025,Octane 95,21,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2025-10-17,2025,Diesel (Solar),17.5,Transport & Heavy,Microbus/Trucks/Buses
+2025-10-17,2025,Natural Gas (CNG),10,Savings & Taxi,Converted Taxis/Uber
+2025-04-11,2025,Octane 80,15.75,Old & Private,Lada/Fiat 128
+2025-04-11,2025,Octane 92,17.25,Modern Economy,Nissan/Toyota/Hyundai
+2025-04-11,2025,Octane 95,19,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2025-04-11,2025,Diesel (Solar),15.5,Transport & Heavy,Microbus/Trucks/Buses
+2025-04-11,2025,Natural Gas (CNG),8.5,Savings & Taxi,Converted Taxis/Uber
+2024-10-18,2024,Octane 80,13.75,Old & Private,Lada/Fiat 128
+2024-10-18,2024,Octane 92,15.25,Modern Economy,Nissan/Toyota/Hyundai
+2024-10-18,2024,Octane 95,17,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2024-10-18,2024,Diesel (Solar),13.5,Transport & Heavy,Microbus/Trucks/Buses
+2024-10-18,2024,Natural Gas (CNG),7,Savings & Taxi,Converted Taxis/Uber
+2024-07-25,2024,Octane 80,12.25,Old & Private,Lada/Fiat 128
+2024-07-25,2024,Octane 92,13.75,Modern Economy,Nissan/Toyota/Hyundai
+2024-07-25,2024,Octane 95,15,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2024-07-25,2024,Diesel (Solar),11.5,Transport & Heavy,Microbus/Trucks/Buses
+2024-07-25,2024,Natural Gas (CNG),6.5,Savings & Taxi,Converted Taxis/Uber
+2024-03-22,2024,Octane 80,11,Old & Private,Lada/Fiat 128
+2024-03-22,2024,Octane 92,12.5,Modern Economy,Nissan/Toyota/Hyundai
+2024-03-22,2024,Octane 95,13.5,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2024-03-22,2024,Diesel (Solar),10,Transport & Heavy,Microbus/Trucks/Buses
+2024-03-22,2024,Natural Gas (CNG),6.5,Savings & Taxi,Converted Taxis/Uber
+2023-11-03,2023,Octane 80,10,Old & Private,Lada/Fiat 128
+2023-11-03,2023,Octane 92,11.5,Modern Economy,Nissan/Toyota/Hyundai
+2023-11-03,2023,Octane 95,12.5,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2023-11-03,2023,Diesel (Solar),8.25,Transport & Heavy,Microbus/Trucks/Buses
+2023-11-03,2023,Natural Gas (CNG),5.5,Savings & Taxi,Converted Taxis/Uber
+2023-05-04,2023,Diesel (Solar),8.25,Transport & Heavy,Microbus/Trucks/Buses
+2023-03-02,2023,Octane 80,8.75,Old & Private,Lada/Fiat 128
+2023-03-02,2023,Octane 92,10.25,Modern Economy,Nissan/Toyota/Hyundai
+2023-03-02,2023,Octane 95,11.5,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2023-03-02,2023,Diesel (Solar),7.25,Transport & Heavy,Microbus/Trucks/Buses
+2023-03-02,2023,Natural Gas (CNG),4.5,Savings & Taxi,Converted Taxis/Uber
+2022-07-13,2022,Octane 80,8,Old & Private,Lada/Fiat 128
+2022-07-13,2022,Octane 92,9.25,Modern Economy,Nissan/Toyota/Hyundai
+2022-07-13,2022,Octane 95,10.75,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2022-07-13,2022,Diesel (Solar),7.25,Transport & Heavy,Microbus/Trucks/Buses
+2022-04-15,2022,Octane 80,7.5,Old & Private,Lada/Fiat 128
+2022-04-15,2022,Octane 92,8.75,Modern Economy,Nissan/Toyota/Hyundai
+2022-04-15,2022,Octane 95,9.75,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2022-04-15,2022,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2022-02-04,2022,Octane 80,7.25,Old & Private,Lada/Fiat 128
+2022-02-04,2022,Octane 92,8.5,Modern Economy,Nissan/Toyota/Hyundai
+2022-02-04,2022,Octane 95,9.5,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2022-02-04,2022,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2021-10-08,2021,Octane 80,7,Old & Private,Lada/Fiat 128
+2021-10-08,2021,Octane 92,8.25,Modern Economy,Nissan/Toyota/Hyundai
+2021-10-08,2021,Octane 95,9.25,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2021-10-08,2021,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2021-07-23,2021,Octane 80,6.75,Old & Private,Lada/Fiat 128
+2021-07-23,2021,Octane 92,8,Modern Economy,Nissan/Toyota/Hyundai
+2021-07-23,2021,Octane 95,9,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2021-07-23,2021,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2021-04-23,2021,Octane 80,6.5,Old & Private,Lada/Fiat 128
+2021-04-23,2021,Octane 92,7.75,Modern Economy,Nissan/Toyota/Hyundai
+2021-04-23,2021,Octane 95,8.75,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2021-04-23,2021,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2020-04-11,2020,Octane 80,6.25,Old & Private,Lada/Fiat 128
+2020-04-11,2020,Octane 92,7.5,Modern Economy,Nissan/Toyota/Hyundai
+2020-04-11,2020,Octane 95,8.5,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2020-04-11,2020,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2019-10-04,2019,Octane 80,6.5,Old & Private,Lada/Fiat 128
+2019-10-04,2019,Octane 92,7.75,Modern Economy,Nissan/Toyota/Hyundai
+2019-10-04,2019,Octane 95,8.75,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2019-10-04,2019,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2019-07-05,2019,Octane 80,6.75,Old & Private,Lada/Fiat 128
+2019-07-05,2019,Octane 92,8,Modern Economy,Nissan/Toyota/Hyundai
+2019-07-05,2019,Octane 95,9,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2019-07-05,2019,Diesel (Solar),6.75,Transport & Heavy,Microbus/Trucks/Buses
+2018-06-16,2018,Octane 80,5.5,Old & Private,Lada/Fiat 128
+2018-06-16,2018,Octane 92,6.75,Modern Economy,Nissan/Toyota/Hyundai
+2018-06-16,2018,Octane 95,7.75,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2018-06-16,2018,Diesel (Solar),5.5,Transport & Heavy,Microbus/Trucks/Buses
+2017-06-29,2017,Octane 80,3.65,Old & Private,Lada/Fiat 128
+2017-06-29,2017,Octane 92,5,Modern Economy,Nissan/Toyota/Hyundai
+2017-06-29,2017,Octane 95,6.6,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2017-06-29,2017,Diesel (Solar),3.65,Transport & Heavy,Microbus/Trucks/Buses
+2016-11-04,2016,Octane 80,2.35,Old & Private,Lada/Fiat 128
+2016-11-04,2016,Octane 92,3.5,Modern Economy,Nissan/Toyota/Hyundai
+2016-11-04,2016,Octane 95,6.25,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2016-11-04,2016,Diesel (Solar),2.35,Transport & Heavy,Microbus/Trucks/Buses
+2014-07-05,2014,Octane 80,1.6,Old & Private,Lada/Fiat 128
+2014-07-05,2014,Octane 92,2.6,Modern Economy,Nissan/Toyota/Hyundai
+2014-07-05,2014,Octane 95,6.25,Luxury & Turbo,Mercedes/BMW/Kia Turbo
+2014-07-05,2014,Diesel (Solar),1.8,Transport & Heavy,Microbus/Trucks/Buses
